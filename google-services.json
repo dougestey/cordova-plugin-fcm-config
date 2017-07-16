@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "611990100408",
+    "firebase_url": "https://elsie-ced83.firebaseio.com",
+    "project_id": "elsie-ced83",
+    "storage_bucket": "elsie-ced83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611990100408:android:b6f1d9fbd206d2e0",
+        "android_client_info": {
+          "package_name": "com.tailoredux.elsie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611990100408-2gde9ae8r0ct92bj7k8m9ve2vdjau9qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnHkqTStDAAW8ZrZKchZ_mhagTXBvAZP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
